@@ -1,0 +1,54 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.9.0",
+    "source": "build\/wp.impex.store.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Export": [
+                "(en_US) Export"
+            ],
+            "Import": [
+                "(en_US) Import"
+            ],
+            "Creating snapshot": [
+                ""
+            ],
+            "Downloading snapshot": [
+                ""
+            ],
+            "Creating snapshot ...": [
+                ""
+            ],
+            "Uploading slices ...": [
+                ""
+            ],
+            "Importing slices ...": [
+                ""
+            ],
+            "Import completed": [
+                "Export Profile"
+            ],
+            "Successfully finished import.": [
+                ""
+            ],
+            "Export aborted": [
+                "Export Profile"
+            ],
+            "You canceled the export or entered an invalid export name": [
+                ""
+            ],
+            "Export completed": [
+                "Export Profile"
+            ],
+            "Successfully finished export.": [
+                ""
+            ]
+        }
+    }
+}

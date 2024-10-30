@@ -1,0 +1,153 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.9.0",
+    "source": "build\/wp.impex.dashboard.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Export": [
+                "(en_US) Export"
+            ],
+            "Import": [
+                "(en_US) Import"
+            ],
+            "Select an export profile": [
+                "Select an Export profile"
+            ],
+            "Export Profile:": [
+                "Export Profile"
+            ],
+            "Export profiles define which WordPress data should be extracted": [
+                ""
+            ],
+            "Name": [
+                ""
+            ],
+            "Name should be short and human readable": [
+                ""
+            ],
+            "Description": [
+                ""
+            ],
+            "Description may contain more expressive information describing the item": [
+                ""
+            ],
+            "Creating snapshot": [
+                ""
+            ],
+            "Downloading snapshot": [
+                ""
+            ],
+            "Create snapshot": [
+                ""
+            ],
+            "Create Snapshot": [
+                ""
+            ],
+            "Download snapshot": [
+                ""
+            ],
+            "Additional actions on this export": [
+                ""
+            ],
+            "Edit": [
+                ""
+            ],
+            "Edit export": [
+                "(en_US) Export"
+            ],
+            "Delete": [
+                ""
+            ],
+            "Delete export": [
+                ""
+            ],
+            "Select an import profile": [
+                "Select an Import profile"
+            ],
+            "Import Profile:": [
+                "Import Profile"
+            ],
+            "Import profiles define which WordPress data should be consumed": [
+                ""
+            ],
+            "Importing data into WordPress ...": [
+                ""
+            ],
+            "Uploading snapshot": [
+                ""
+            ],
+            "Upload snapshot to WordPress": [
+                ""
+            ],
+            "Upload snapshot": [
+                ""
+            ],
+            "Import options": [
+                "Export Profile"
+            ],
+            "Clean up existing post, page, block pattern, nav_menu an reusable block items": [
+                ""
+            ],
+            "Keep existing post, page, block pattern, nav_menu an reusable block items.": [
+                ""
+            ],
+            "Remove existing content before importing uploaded snapshot": [
+                ""
+            ],
+            "Clean up existing media like images and videos (located at WordPress uploads)": [
+                ""
+            ],
+            "Keep existing media items. Media might be partly overwritten by export": [
+                ""
+            ],
+            "Remove existing media before import": [
+                ""
+            ],
+            "Import uploaded snapshot": [
+                ""
+            ],
+            "Additional actions on this import": [
+                ""
+            ],
+            "Edit import snapshot": [
+                ""
+            ],
+            "Delete import": [
+                ""
+            ],
+            "Are you really sure to delete import": [
+                ""
+            ],
+            "OK": [
+                ""
+            ],
+            "Import failed": [
+                "Export Profile"
+            ],
+            "Export failed": [
+                "Export Profile"
+            ],
+            "Remove existing content before import": [
+                ""
+            ],
+            "Keep existing items. Media might be partly overwritten by export": [
+                ""
+            ],
+            "ImpEx": [
+                ""
+            ],
+            "Basic": [
+                ""
+            ],
+            "Advanced": [
+                ""
+            ]
+        }
+    }
+}
